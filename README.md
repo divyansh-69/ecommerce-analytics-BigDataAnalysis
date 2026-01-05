@@ -14,7 +14,7 @@
 - Docker & Docker Compose
 - Python 3.8+
 - Java 8 or 11
-- Git
+- Git (optional)
 
 ---
 
